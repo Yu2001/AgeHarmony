@@ -1,0 +1,7 @@
+{
+  "name": "AgeHarmony",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
